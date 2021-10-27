@@ -1,0 +1,1 @@
+scp -i Rv2309.pem -P 50001 "C:\Users\23ris\Desktop\Study\DataScience_and_ML\Projects\Stock_Market_Trading_System\Utils\*.py" azureuser@20.204.234.5:/home/azureuser/StockStrategy
